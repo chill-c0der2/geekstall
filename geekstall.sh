@@ -9,6 +9,7 @@ sudo apt install figlet
 sudo apt install neofetch
 sudo apt install lolcat
 sudo apt install git
+sudo apt install python3
 clear
 echo DETECTING.
 sleep 1

@@ -15,4 +15,4 @@ Installs Hacking tools
 
 If it does not display anything or no menu after installing something just press Enter
 
-![image](https://user-images.githubusercontent.com/101239940/159106629-92465622-f320-4d32-8822-f0187cf2d264.png)
+

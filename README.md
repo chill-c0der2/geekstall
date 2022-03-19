@@ -1,6 +1,6 @@
 # geekstall
 Installs Hacking tools
-
+KALI:
 
 [+] sudo apt install git
 
@@ -13,7 +13,12 @@ Installs Hacking tools
 
 [+] sudo bash install.sh
 
-to update this script cd into geekstall then put git pull
+
+TERMUX:
+
+apt update
+apt upgrade
+bash installt.sh
 
 If it does not display anything or no menu after installing something just press Enter
 ![Image 1](geekstall.png)

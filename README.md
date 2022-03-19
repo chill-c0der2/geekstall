@@ -15,4 +15,6 @@ Installs Hacking tools
 
 If it does not display anything or no menu after installing something just press Enter
 
+https://github.com/chill-c0der/geekstall/blob/a14d87922741435ec84d86acd38f4068cff211cc/geekstall.png
+
 

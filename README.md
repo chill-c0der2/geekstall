@@ -16,13 +16,13 @@ KALI:
 
 TERMUX:
 
-[+]apt update
+[+] apt update
 
 
-[+]apt upgrade
+[+] apt upgrade
 
 
-[+]bash installt.sh
+[+] bash termux.sh
 
 If it does not display anything or no menu after installing something just press Enter
 ![Image 1](geekstall.png)

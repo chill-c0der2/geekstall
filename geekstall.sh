@@ -2,6 +2,13 @@ if [[ $EUID -ne 0 ]]; then
    echo "You Must Have Root" 
    exit 1
 fi
+sudo apt update
+sudo apt upgrade
+sudo apt install menu
+sudo apt install figlet
+sudo apt install neofetch
+sudo apt install lolcat
+sudo apt install git
 clear
 echo DETECTING.
 sleep 1

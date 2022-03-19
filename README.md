@@ -11,7 +11,7 @@ KALI:
 [+] cd geekstall
 
 
-[+] sudo bash install.sh
+[+] sudo bash geekstall.sh
 
 
 TERMUX:

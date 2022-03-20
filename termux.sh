@@ -6,7 +6,6 @@ apt install neofetch
 apt install lolcat
 apt install git
 apt install python3
-bash geekstall.sh
 clear
 echo DETECTING.
 sleep 1
